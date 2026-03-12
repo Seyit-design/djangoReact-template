@@ -31,7 +31,7 @@ INSTALLED_APPS = [
     
     "rest_framework",
 
-    #"backend.demo",
+
 ]
 
 
